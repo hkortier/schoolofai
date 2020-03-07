@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+matplotlib = "*"
+gpytorch = "*"
+jupyter = "*"
+seaborn = "*"
+arviz = "*"
+pymc3 = "*"
+gpflow = {git = "https://github.com/GPflow/GPflow.git",ref = "develop"}
+sklearn = "*"
+rise = "*"
+jupyter-contrib-nbextensions = "*"
+
+[requires]
+python_version = "3.7"
