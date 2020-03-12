@@ -1,5 +1,7 @@
 # Gaussian Processes: A practical introduction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkortier/schoolofai/blob/master/Worksheet.ipynb)
+
 **School of AI Enschede 2020**
 
 ## Description
