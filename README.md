@@ -2,8 +2,6 @@
 
 **School of AI Enschede 2020**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hkortier/schoolofai/master)
-
 ## Description
 
 Gaussian processes are flexible probabilistic models that can be used to perform Bayesian regression analysis. This tutorial will introduce new users to create simple Gaussian process models, i.e. Gaussian Likelihoods and Priors with SE Kernels, in Python.
